@@ -1,3 +1,5 @@
+
+//this is just an comment
 import smtplib,webbrowser
 def get_mail():
     servicesAvailable=['hotmail','gmail','yahoo','outlook']
